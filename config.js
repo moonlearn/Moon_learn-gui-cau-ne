@@ -1,6 +1,10 @@
 const CONFIG = {
-    introTitle: 'đồ khùm bé bỏng của anh',
-    introDesc: `nhật ký iu xa`,
+    introTitle: 'gửi đồ khùm bé bỏng tharo của anh',
+    introDesc: `nhật ký iu xa
+    Từ một phút tình cờ anh biết rằng mình mong nhớ
+Từ một phút tình cờ anh thấy nhẹ nhàng bất ngờ
+Ta đã từng đi đến tận cùng thế giới tìm một ai đó
+Cho đến phút giây ta vô tình biết bằng ta tìm thấy nhau`,
     btnIntro: 'hihi',
     title: 'ê khùm dở hơi, em có iu anh khum 😙',
     desc: 'có nhung nhớ anh mỗi khi đim dìa ',
