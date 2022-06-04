@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Gửi bạn dễ thương✨`,',
+    introTitle: 'Gửi bạn dễ thương✨`,
     introDesc: `Bạn có thư tình từ Moon.learn nè 🥰`,
     btnIntro: 'hihi',
     title: 'Bạn có muốn đi date với Moon qua buổi workshop miễn phí này khum? 😙',
