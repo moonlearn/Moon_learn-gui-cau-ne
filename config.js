@@ -1,5 +1,4 @@
 
-
 const CONFIG = {
     introTitle: 'Gửi bạn dễ thương✨',
     introDesc: `Bạn có thư tình từ Moon.learn nè 🥰`,
