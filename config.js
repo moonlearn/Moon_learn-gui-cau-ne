@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+  introTitle: 'Gửi bạn dễ thương✨`,',
+    introDesc: `Bạn có thư tình từ Moon.learn nè 🥰',
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Bạn có muốn đi date với Moon qua buổi workshop miễn phí này khum? 😙`,
+    desc: 'Thử thách 3 tiếng trở nên tự tin hơn, gét gô!!!',
+    btnYes: 'Khum muốn mà là cực muốn á🥰',
+    btnNo: 'Khum, cảm ơn',
+    question:'Bạn có tâm tư tình cảm gì gửi cho Moon.learn hem? 🤧',
+    btnReply: 'Gửi cho Moon <3',
+    reply: 'Tại tò mò muốn nâng cấp bản thân và trở nên tự tin hơn ó',
+    mess: 'Ỏ Moon.learn bắt đầu crush cậu rùi đó, phải làm sao phải làm sao 😘',
+    messDesc: 'Link form đăng ký giữ chỗ ở đây nha: forms.gle/nJBky6bTfRB3DdSi9',
+    btnAccept: 'Okiiiii mình đăng ký liền nè <3',
+    messLink: 'https://www.instagram.com/moon.learn/'
 }
