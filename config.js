@@ -1,20 +1,17 @@
 const CONFIG = {
-    introTitle: 'gửi đồ khùm bé bỏng tharo của anh',
-    introDesc: `nhật ký iu xa
-    Từ một phút tình cờ anh biết rằng mình mong nhớ
-Từ một phút tình cờ anh thấy nhẹ nhàng bất ngờ
-Ta đã từng đi đến tận cùng thế giới tìm một ai đó
-Cho đến phút giây ta vô tình biết bằng ta tìm thấy nhau`,
+    introTitle: 'Gửi bạn dễ thương✨`,',
+    introDesc: `Bạn có thư tình từ Moon.learn nè 🥰`,
     btnIntro: 'hihi',
-    title: 'ê khùm dở hơi, em có iu anh khum 😙',
-    desc: 'có nhung nhớ anh mỗi khi đim dìa ',
-    btnYes: 'Dạaaa ko yêu mà là cựcccccc yêuuuuu',
+    title: 'Bạn có muốn đi date với Moon qua buổi workshop miễn phí này khum? 😙',
+    desc: 'Thử thách 3 tiếng trở nên tự tin hơn, gét gô!!!',
+    btnYes: 'Khum muốn mà là cực muốn á🥰',
     btnNo: 'Khum, cảm ơn',
-    question:'Trên thế giới hơn 7 tỉ người mà sao tharo lại yêu anh nhờ <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Tại yêu nụ cừi yêu mái tóc yêu bờ môi cong của anh đoáaaa, nói chứ xa 3 tháng mà bé nhó anh chĩu chĩuu',
-    mess: 'Z đó ha, anh cũng nhó em với bé Na bé Su nữaaa 😘😘',
-    messDesc: 'Hết dịch làm đám cưới nhe công chúa, để anh đèo em đi chơi nè ăn bánh xèo bánh căn bánh bột lọc bánh tráng trộn nè',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100035430443318'
+    question:'Bạn có tâm tư tình cảm gì gửi cho Moon.learn hem? 🤧 ',
+    btnReply: 'Gửi cho Moon <3',
+    reply: 'Tại tò mò muốn nâng cấp bản thân và trở nên tự tin hơn ó',
+    mess: 'Ỏ Moon.learn bắt đầu crush cậu rùi đó, phải làm sao phải làm sao 😘😘',
+    messDesc: 'Link form đăng ký giữ chỗ ở đây nha: forms.gle/nJBky6bTfRB3DdSi9
+',
+    btnAccept: 'Okiiiii mình đăng ký liền nè <3',
+    messLink: 'https://www.instagram.com/moon.learn/'
 }
