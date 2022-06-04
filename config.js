@@ -10,8 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho Moon <3',
     reply: 'Tại tò mò muốn nâng cấp bản thân và trở nên tự tin hơn ó',
     mess: 'Ỏ Moon.learn bắt đầu crush cậu rùi đó, phải làm sao phải làm sao 😘😘',
-    messDesc: 'Link form đăng ký giữ chỗ ở đây nha: forms.gle/nJBky6bTfRB3DdSi9
-',
+    messDesc: 'Link form đăng ký giữ chỗ ở đây nha: forms.gle/nJBky6bTfRB3DdSi9',
     btnAccept: 'Okiiiii mình đăng ký liền nè <3',
     messLink: 'https://www.instagram.com/moon.learn/'
 }
