@@ -3,7 +3,6 @@
 const CONFIG = {
     introTitle: 'Gửi bạn dễ thương✨',
     introDesc: `Bạn có thư tình từ Moon.learn nè 🥰`,
-    btnIntro: 'hihi',
     title: 'Bạn có muốn đi date với Moon qua buổi workshop miễn phí này khum? 😙',
     desc: 'Thử thách 3 tiếng trở nên tự tin hơn, gét gô!!! ',
     btnYes: 'Có nhaaaa🥰',
